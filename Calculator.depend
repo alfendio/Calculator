@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627305134 source:d:\alfend\kuliah\algoritma dan struktur data\tugas\bahasa c\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
